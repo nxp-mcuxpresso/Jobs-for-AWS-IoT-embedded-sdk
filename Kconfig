@@ -1,0 +1,12 @@
+#
+# Copyright 2024 NXP
+#
+# SPDX-License-Identifier: MIT
+#
+
+
+menu "jobs"
+    config MCUX_COMPONENT_middleware.aws_iot.jobs
+        bool "Component middleware.aws_iot.jobs"
+        select MCUX_COMPONENT_middleware.llhttp
+endmenu

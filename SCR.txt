@@ -1,0 +1,12 @@
+NXP Software Content Register
+
+Package: jobs
+Version: 1.3.0
+Outgoing License: MIT
+License File: LICENSE
+Type of Content: source code, header files
+Description and comments: Library for using the AWS IoT Jobs service on embedded devices.
+Release Location: https://github.com/nxp-mcuxpresso/jobs-for-aws-iot-embedded-sdk
+Origin:
+      NXP (MIT)
+      Amazon (MIT) - https://github.com/aws/Jobs-for-AWS-IoT-embedded-sdk
